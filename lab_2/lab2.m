@@ -17,6 +17,5 @@ explot(2, [1,3,2])
 explot(10, [1,3,3])
 
 %% Gamma distribution
-explot(1, [1,3,1])
-explot(2, [1,3,2])
-explot(10, [1,3,3])
+gammaplot(1, 2, [1,2,1])
+gammaplot(5, 1, [1,2,2])
