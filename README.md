@@ -6,4 +6,4 @@ _This repository contains code written during the fall semester 2017 by Simone S
 
 __Laboratories__
 - [X] Lab 1
-- [ ] Lab 2
+- [X] Lab 2
